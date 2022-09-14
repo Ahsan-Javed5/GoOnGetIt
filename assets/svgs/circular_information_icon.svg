@@ -1,0 +1,8 @@
+<svg id="Component_44_11" data-name="Component 44 – 11" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_375" data-name="Rectangle 375" width="24" height="24" rx="12" fill="#40c979"/>
+  <g id="report" transform="translate(6 6)">
+    <path id="Path_5067" data-name="Path 5067" d="M239.467,292.105a.6.6,0,1,0,.6.6A.6.6,0,0,0,239.467,292.105Zm0,0" transform="translate(-232.982 -284.909)" fill="#fff"/>
+    <path id="Path_5068" data-name="Path 5068" d="M239.467,94.27a.567.567,0,0,0-.6.525v2.126a.605.605,0,0,0,1.2,0V94.795A.567.567,0,0,0,239.467,94.27Zm0,0" transform="translate(-232.982 -92.113)" fill="#fff"/>
+    <path id="Path_5069" data-name="Path 5069" d="M11.572,0H1.4A1.4,1.4,0,0,0,0,1.4V8.851a1.4,1.4,0,0,0,1.4,1.4H4.622L5.69,12.384a.924.924,0,0,0,.795.585.924.924,0,0,0,.795-.585l1.068-2.136h3.225a1.4,1.4,0,0,0,1.4-1.4V1.4a1.4,1.4,0,0,0-1.4-1.4ZM6.485,9.027A1.194,1.194,0,1,1,7.679,7.833,1.2,1.2,0,0,1,6.485,9.027Zm1.194-4.45a1.194,1.194,0,0,1-2.388,0V2.822a1.194,1.194,0,0,1,2.388,0Zm0,0" fill="#fff"/>
+  </g>
+</svg>

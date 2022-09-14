@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <filter id="Rectangle_429" x="0" y="0" width="80" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4655" data-name="Group 4655" transform="translate(-10 -197)">
+    <g transform="matrix(1, 0, 0, 1, 10, 197)" filter="url(#Rectangle_429)">
+      <rect id="Rectangle_429-2" data-name="Rectangle 429" width="44" height="44" rx="22" transform="translate(18 11)" fill="#fc0"/>
+    </g>
+    <path id="McDonald_s-Logo.wine" data-name="McDonald&apos;s-Logo.wine" d="M15.87,1.371c1.9,0,3.443,8.021,3.443,17.927h2.774c0-10.665-2.8-19.3-6.226-19.3-1.958,0-3.688,2.587-4.83,6.65C9.889,2.587,8.159,0,6.217,0,2.791,0,0,8.625,0,19.29H2.774C2.774,9.384,4.3,1.371,6.2,1.371S9.644,8.78,9.644,17.919H12.4c0-9.139,1.55-16.548,3.451-16.548" transform="translate(38.956 220)" fill="#fff"/>
+  </g>
+</svg>
